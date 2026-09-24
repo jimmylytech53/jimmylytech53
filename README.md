@@ -79,7 +79,8 @@ troubleshooting hardware and software issues, reimaging Windows 11 with Microsof
     <td><b>🖥️ Windows Server </b></td>
     <td>
       <ul align="left">
-        <li><a href="https://github.com/jly0Tech/WindowsServer_2025">Microsoft Azure: Windows Server Active Directory </a></li
+        <li><a href="https://github.com/jimmylytech53/Microsoft-Azure-Create-and-Manage-Microsoft-Entra-ID-Users-in-the-Portal/tree/main
+">Creating and Managing Entra ID Users </a></li>
        <li><a href="https://github.com/jly017tech/">Windows Server: networking and powershell scripts</a></li>
         <li><a href="https://github.com/jly017tech/PDQDeploy-Inventory">PDQ Deploy and Inventory</a></li>
         <li><a href="https://github.com/jly017tech/Access-Based-Enumeration-ABE-">Enumerating with ABE</a></li>
