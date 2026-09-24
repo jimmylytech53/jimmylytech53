@@ -85,7 +85,6 @@ troubleshooting hardware and software issues, reimaging Windows 11 with Microsof
         <li><a href="https://github.com/jly017tech/Setting-up-Shared-Folder-with-NFTS-Permission">Setting up Shared Folder with NTFS Permission</a></li>
         <li><a href="https://github.com/jly017tech/2025-MDTLab">[Retired] Windows Deplyoment Service Lab: Microsoft Deployment Toolkit</a></li>     
         <li><a href="https://github.com/jly017tech/MDT-AddingApp">MDT: Adding application</a></li>
-        <li><a href="https://github.com/jly017tech/FOG-Image-Server">Reimaging and Copying in Ubuntu with FOG</a></li>
       </ul>
     </td>
     <td align="center">
@@ -137,8 +136,7 @@ troubleshooting hardware and software issues, reimaging Windows 11 with Microsof
     <td><b>Linux Projects</b></td>
     <td>
       <ul align="left">
-        <li><a href="https://github.com/jly0Tech/TicketingSystem_Peppermint">Peppermint</a></li>
-        <li><a href="https://github.com/jly0Tech/SpiceWorks">SpiceWorks</a></li>        
+        <li><a href="https://github.com/jly017tech/FOG-Image-Server">Reimaging and Copying in Ubuntu with FOG</a></li>
       </ul>
     </td>
     <td align="center">
