@@ -1,6 +1,3 @@
-<h1 align="center">Jimmy Ly</h1>
-
-
 
 <!-- Top of the section-->
 
