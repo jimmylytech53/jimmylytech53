@@ -78,13 +78,7 @@ troubleshooting hardware and software issues, reimaging Windows 11 with Microsof
       <ul align="left">
         <li><a href="https://github.com/jimmylytech53/Microsoft-Azure-Create-and-Manage-Microsoft-Entra-ID-Users-in-the-Portal/tree/main
 ">Creating and Managing Entra ID Users </a></li>
-       <li><a href="https://github.com/jly017tech/">Windows Server: networking and powershell scripts</a></li>
-        <li><a href="https://github.com/jly017tech/PDQDeploy-Inventory">PDQ Deploy and Inventory</a></li>
-        <li><a href="https://github.com/jly017tech/Access-Based-Enumeration-ABE-">Enumerating with ABE</a></li>
-        <li><a href="https://github.com/jly017tech/GroupPolicyManagement_Homelab/blob/main/README.md">Group Policy Management</a></li>
-        <li><a href="https://github.com/jly017tech/Setting-up-Shared-Folder-with-NFTS-Permission">Setting up Shared Folder with NTFS Permission</a></li>
         <li><a href="https://github.com/jly017tech/2025-MDTLab">[Retired] Windows Deplyoment Service Lab: Microsoft Deployment Toolkit</a></li>     
-        <li><a href="https://github.com/jly017tech/MDT-AddingApp">MDT: Adding application</a></li>
       </ul>
     </td>
     <td align="center">
